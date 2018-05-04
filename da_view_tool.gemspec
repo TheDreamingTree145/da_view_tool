@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Dustin Anderson"]
   spec.email         = ["dandersonsoftware@outlook.com"]
 
-  spec.summary       = %q{Various view specific methods for application.}
-  spec.description   = %q{Provides generated HTML data for Rails app.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Copyright Generator}
+  spec.description   = %q{Copyright Generator}
+  spec.homepage      = "https://github.com/TheDreamingTree145/da_view_tool"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
